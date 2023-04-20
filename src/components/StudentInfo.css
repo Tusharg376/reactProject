@@ -1,0 +1,35 @@
+.main{
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-around;
+    align-items: center;
+    height: 99vh;
+
+
+}
+
+.input_form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60vh;
+    height:60vh;
+    border: 2px black;
+    border-style: solid dotted dotted solid;
+    margin-left:20px;
+
+}
+.student_data{
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: center;
+    width: 60vh;
+    height:60vh;
+    border: 2px black;
+    border-style: dotted solid solid dotted;
+    margin-left:20px;
+
+}
+
